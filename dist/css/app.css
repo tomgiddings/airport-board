@@ -357,14 +357,6 @@ a {
   content: "9";
 }
 
-.letter-0::before {
-  content: "0";
-}
-
-.letter-0::after {
-  content: "0";
-}
-
 /* Letter animations */
 .departure-board span:nth-child(1):before {
   animation: flip 1s 1 ease-in-out;
@@ -1272,22 +1264,22 @@ a {
     transform: rotateX(0deg);
   }
   20% {
-    content: "Q";
+    content: "D";
     transform: rotateX(360deg);
   }
   40% {
     color: #fff;
-    content: "6";
+    content: "Y";
     transform: rotateX(0deg);
   }
   60% {
     color: #fff;
-    content: "B";
+    content: "F";
     transform: rotateX(360deg);
   }
   80% {
     color: #fff;
-    content: "C";
+    content: "U";
     transform: rotateX(0deg);
   }
   100% {
