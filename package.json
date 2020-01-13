@@ -1,0 +1,47 @@
+{
+  "name": "airport-sign",
+  "version": "1.0.0",
+  "description": "An old style airport sign.",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "precommit": "gulp sass_lint && jshint -c .jshintrc --verbose src/js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tomgiddings/airport-board.git"
+  },
+  "author": "Tom Giddings",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tomgiddings/airport-board/issues"
+  },
+  "keywords": [],
+  "homepage": "https://github.com/tomgiddings/airport-board#readme",
+  "devDependencies": {
+    "autoprefixer": "^7.2.4",
+    "babel-cli": "^6.26.0",
+    "babel-core": "^6.26.0",
+    "babel-preset-env": "^1.6.1",
+    "browser-sync": "^2.18.13",
+    "cssnano": "^4.1.10",
+    "gulp": "^4.0.2",
+    "gulp-babel": "^7.0.0",
+    "gulp-concat": "2.6.1",
+    "gulp-imagemin": "^6.2.0",
+    "gulp-notify": "3.0.0",
+    "gulp-plumber": "1.1.0",
+    "gulp-postcss": "^7.0.1",
+    "gulp-rename": "^2.0.0",
+    "gulp-sass": "^3.1.0",
+    "gulp-sass-lint": "^1.3.4",
+    "gulp-stylelint": "^6.0.0",
+    "gulp-uglify": "^3.0.0",
+    "husky": "0.14.3",
+    "jshint-stylish": "2.2.1",
+    "stylelint": "^13.0.0"
+  },
+  "dependencies": {
+    "jshint": "^2.9.5"
+  }
+}
