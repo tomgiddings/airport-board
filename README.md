@@ -4,7 +4,7 @@ A simple HTML/SASS based airport departure board.
 
 ## Making Changes
 
-Run `npm install` and edit the files in `src`.
+Run `npm install` and edit the files in `src`. You can also play with this code on [CodePen](https://codepen.io/tomgiddings/pen/yLyExxo).
 
 ## Gulp
 
