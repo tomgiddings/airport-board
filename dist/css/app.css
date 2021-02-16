@@ -1264,22 +1264,22 @@ a {
     transform: rotateX(0deg);
   }
   20% {
-    content: "D";
+    content: "P";
     transform: rotateX(360deg);
   }
   40% {
     color: #fff;
-    content: "Y";
+    content: "B";
     transform: rotateX(0deg);
   }
   60% {
     color: #fff;
-    content: "F";
+    content: "S";
     transform: rotateX(360deg);
   }
   80% {
     color: #fff;
-    content: "U";
+    content: "I";
     transform: rotateX(0deg);
   }
   100% {
