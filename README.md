@@ -1,6 +1,6 @@
 # Airport Sign/Board
 
-A simple HTML/SASS based airport departure board.
+A simple HTML/SCSS based airport departure board.
 
 ## Making Changes
 
@@ -8,7 +8,7 @@ Run `npm install` and edit the files in `src`. You can also play with this code 
 
 ## Gulp
 
-HTML/SASS is built using Gulp. Simply use `gulp html` and `gulp css`.
+HTML/SCSS is built using Gulp. Simply use `gulp html` and `gulp css`.
 
 ## Viewing the result
 
